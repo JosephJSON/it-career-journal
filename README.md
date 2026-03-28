@@ -8,6 +8,7 @@ I am a lifelong tech enthusiast and hobbyist making a deliberate pivot from 7 ye
 - Google IT Support Professional Certificate (Coursera)
 - CompTIA a+ 220-1201 / 220-1202
 - IBM SkillsBuild IT badges
+- Cisco Networking Academy
 
 # Home lab
 - Dedicated home lab build in progress
