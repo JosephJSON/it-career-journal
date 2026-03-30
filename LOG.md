@@ -1,3 +1,15 @@
+## March 28, 2026
+**Completed:** Google IT Support Professional Certificate - Course 1 (Technical Support Fundamentals)
+**Quiz Scores:** 100% average maintained across all assessments.
+**Hands-on:** Drive swap — Dell Inspiron 3668 → HP Omen
+- Pulled 1TB Seagate 7200RPM HDD from Dell Inspiron 3668, installed as secondary D: drive in HP Omen
+- Identified protected EFI partition blocking format via Disk Management
+- Resolved via diskpart: `delete partition override`
+- Formatted NTFS, assigned D: drive letter
+- Benchmarked with CrystalDiskMark: ~200MB/s sequential read 
+- Full surface scan via HDDScan
+**Notes:** Course 1 cert issued via Coursera March 29. Next up: Course 2 — Bits and Bytes of Computer Networking.
+--
 ## March 27, 2026
 **Courses:** Google IT Support Profesional Certificate 
 
