@@ -1,3 +1,15 @@
+April 7, 2026
+**Courses:** Google IT Support Professional Certificate - Course 2 (Bits and Bytes of Networking) completed 14% of the entire course,
+**Quiz scores:** 100% across all quizzes and tests. 
+
+**Hands-on:** Actively learning and deploying VM's. 
+- Current VM: Ubuntu desktop 24.04.4.
+- Identified EUFI issue with Windows 11 24H on VM, moved to Ubuntu in attempt to continue learning advancement.
+- Registered Administrator profile prior to Guest additions to begin technical hierarchy in virtual office space.   
+-  Next goal: server-based distro cluster to create virtual office environment with AD.
+  
+**Notes:** The current goal is to translate information learned from current courses to build and manage a virtual office environment as an addition to the IT portfolio. 
+---
 ## March 28, 2026
 **Completed:** Google IT Support Professional Certificate - Course 1 (Technical Support Fundamentals)
 **Quiz Scores:** 100% average maintained across all assessments.
